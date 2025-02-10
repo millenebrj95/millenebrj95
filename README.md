@@ -35,11 +35,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Millene Souza Junior">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Millene%20Souza%20Junior&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
