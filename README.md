@@ -1,4 +1,5 @@
-<h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Back-end & Front-end e profissional de logística, com experiência em análise de inventário e automação de processos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (Unifor). Sou apaixonado por Python, Excel, Analise de dados, Google Sheets, Otimização de processos e tecnologia.👇🏽CONECTE-SE COMIGO👇🏽</h2>
+<h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Back-end & Front-end e profissional de logística, com experiência em análise de inventário e automação de processos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (Unifor). Sou apaixonado por Python, Excel, Analise de dados, Google Sheets, Otimização de processos e tecnologia.
+  👇🏽CONECTE-SE COMIGO👇🏽</h2>
 
 ###
 
