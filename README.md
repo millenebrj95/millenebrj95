@@ -1,8 +1,4 @@
-<h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Python e profissional de logística,  com experiência em análise de inventário e automação de processos. Apaixonada por dados, otimização e tecnologia.</h2>
-
-###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
+<h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Back-end & Front-end e profissional de logística, com experiência em análise de inventário e automação de processos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (Unifor). Sou apaixonado por Python, Excel, Analise de dados, Google Sheets, Otimização de processos e tecnologia.👇🏽CONECTE-SE COMIGO👇🏽</h2>
 
 ###
 
@@ -32,6 +28,12 @@
   <a href="mailto:contatomillenebrj@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
 </div>
 
 ###
