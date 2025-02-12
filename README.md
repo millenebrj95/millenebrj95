@@ -6,14 +6,9 @@
 
 <h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Back-end & Front-end e profissional de logística, com experiência em análise de inventário e automação de processos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (Unifor). Sou apaixonado por Python, Excel, Analise de dados, Google Sheets, Otimização de processos e tecnologia.</h2>
 
-
 ###
   
-###
-
 <h3 align="left">👩‍💻  Connect with me</h3>
-
-###
 
 ###
 
@@ -81,13 +76,10 @@
 
 ###
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=millenebrj95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millenebrj95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
 
 
 <div align="center">
