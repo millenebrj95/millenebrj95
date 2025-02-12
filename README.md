@@ -77,14 +77,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=millenebrj95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millenebrj95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-<div align="center">
   <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
   <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2F5y1U&psig=AOvVaw0ruRfNzzNvea_bU46v-ZjL&ust=1739422936699000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiU5cWtvYsDFQAAAAAdAAAAABAE"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=millenebrj95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millenebrj95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -93,4 +94,3 @@
 
 <img src="https://raw.githubusercontent.com/millenebrj95/millenebrj95/output/snake.svg" alt="Snake animation" />
 
-###
