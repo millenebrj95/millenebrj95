@@ -65,7 +65,7 @@
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
-  <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2F5y1U&psig=AOvVaw0ruRfNzzNvea_bU46v-ZjL&ust=1739422936699000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiU5cWtvYsDFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
 </div>
 
 ###
