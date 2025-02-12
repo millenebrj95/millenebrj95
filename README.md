@@ -2,49 +2,46 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" height="40" alt="GitHub logo"  />
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="40" alt="Git logo"  />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="VS Code logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="40" alt="ChatGPT logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VsCODE" />
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="ChatGPT" />
- <img width="12" />
-<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="word" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="PowerPoint" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" alt="Google Sheets" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=v0YYnU84T2c4&format=png&color=000000" alt="Google Docs" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" alt="Google Slide" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=E4VmOrv6BZqd&format=png&color=000000" alt="Google Forms" />
-<img width="12" />
-            <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" />
-<img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" height="40" alt="Word logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" height="40" alt="PowerPoint logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" height="40" alt="Google Sheets logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=v0YYnU84T2c4&format=png&color=000000" height="40" alt="Google Docs logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" height="40" alt="Google Slides logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=E4VmOrv6BZqd&format=png&color=000000" height="40" alt="Google Forms logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="40" alt="Canva logo" />
+  <img width="12" />
 </div>
 
 ###
