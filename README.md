@@ -56,22 +56,24 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:contatomillenebrj@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<a href="https://www.linkedin.com/in/millene-j%C3%BAnior-459b54121/" target="_blank">
+  <a href="https://www.linkedin.com/in/millene-j%C3%BAnior-459b54121/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<a href="https://www.dio.me/users/millenejsd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dio.me&logo=dio.me&label=&color=#003c79&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Dio.me logo"  />
+  <a href="https://www.dio.me/users/millenejsd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dio.me&logo=dio.me&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dio.me"  />
   </a>
-  <a href="https://www.instagram.com/millenebrj/" target="_blank">
+  <a href="https://www.instagram.com/millenebrj?utm_source=qr&igsh=MWkyNDNhYmIyMGwy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
+
 ###
+
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif"  />
