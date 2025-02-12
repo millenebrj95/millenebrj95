@@ -1,8 +1,21 @@
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <h2 align="left">Olá! 👋 Sou Millene Junior, desenvolvedora Back-end & Front-end e profissional de logística, com experiência em análise de inventário e automação de processos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (Unifor). Sou apaixonado por Python, Excel, Analise de dados, Google Sheets, Otimização de processos e tecnologia.</h2>
 
 
 ###
   
+###
+
+<h3 align="left">👩‍💻  Connect with me</h3>
+
+###
+
+###
 
 <div align="left">
   <a href="mailto:contatomillenebrj@gmail.com" target="_blank">
@@ -18,7 +31,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
 
 ###
 
