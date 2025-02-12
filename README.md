@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 <a href="https://www.dio.me/users/millenejsd" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9TWrjbfl_wCv&format=png&color=000000?message=Dio.me&label=&color=5104d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dio.me logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dio.me logo"  />
   </a>
   <a href="https://www.instagram.com/millenebrj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
