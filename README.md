@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! 👋🏽 Sou Millene Junior, estudante de Análise e Desenvolvimento de Sistemas, com experiência como Analista de Logística e Analista de Dados. Atuo como desenvolvedora Back-End e Front-End, com habilidades em Excel, Python, Power BI, SQL e Google Sheets. Sou apaixonada por análise de dados, programação, logística, resolução de problemas e organização e sempre busco entregar resultados com excelência.</p>
+<p align="left">Olá! 👋🏽 Sou Millene Junior, estudante de Análise e Desenvolvimento de Sistemas, com experiência como Assistente de Logística e Transportes e Analista de Inventário. Atuo também como desenvolvedora Back-End e Front-End, com domínio em Excel, Python, Power BI, SQL e Google Sheets. Tenho paixão por análise de dados, programação, logística e resolução de problemas, além de forte habilidade em organização e melhoria de processos. Busco sempre entregar resultados com excelência, unindo conhecimento técnico e visão estratégica.</p>
 
 ###
 
